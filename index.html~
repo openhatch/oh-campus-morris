@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>Open Source Comes to Campus, at CCSF</title>
+<title>Open Source Comes to Campus, at Morris</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 </head>
 <body>
 <div class="section colored" id="plan">
-  <h1>Open Source Comes to Campus, at CCSF</h1>
+  <h1>Open Source Comes to Campus, at Morris</h1>
   <div style="margin-top: 1.5em; margin-right: 1em; float: left; height: 100%;" class="minileft">
     <div><img src="http://campus.openhatch.org/images/happystudents.jpg" /></div>
     <div><img src="http://campus.openhatch.org/images/studentandlaptop.jpg" /></div>
@@ -24,7 +24,7 @@
     teach you how to join them.</p>
 
   <h2>The event</h2>
-  <p>On <strong>Saturday, June 29th</strong>, in <a href="http://www.ccsf.edu/Info/Map/">the Multi-Use Building room 140 (MUB 140)</a>, we want to bring you up to speed on open
+  <p>On <strong>Saturday, September 28th</strong>, in <a href="">insert room name</a>, we want to bring you up to speed on open
   source projects and help you contribute to a real community.</p>
   <p>In the morning, we'll teach you about open source licensing,
     collaboration tools, and how free software projects are
@@ -38,7 +38,7 @@
 </div>
 <br style="clear: both;" />
 <div class="section" id="signup">
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dE1FcGRDajZXeXFtbXhjUEFTc3dHS0E6MQ" width="760" height="2572" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEFjdVlTRzl6MWRvbG5hLVA2ZmM1Ync6MA" width="815" height="1124" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
 <br style="clear: both;" />
 
